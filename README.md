@@ -10,5 +10,5 @@
       </p>
   </span>
 </h1-->
-<h1 style="color: #ff0000">Bienvenidos a mi pagina</h1>
+<h1 style="background-color: #ff0000">Bienvenidos a mi pagina</h1>
 <p>códigos para todos</p>
