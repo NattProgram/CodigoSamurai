@@ -1,4 +1,4 @@
-<h1 id="Bienvenidos_a_mi_portfolio," class="main-top-header" style="display: inline" data-mw-thread-id="h-Bienvenidos_a_mi_Portfolio">
+<!--h1 id="Bienvenidos_a_mi_portfolio," class="main-top-header" style="display: inline" data-mw-thread-id="h-Bienvenidos_a_mi_Portfolio">
   <span id="Bienvenidos_a_mi_Portfolio.2C">
   </span>
   <span data-mw-comment-start="" id="h-Bienvenidos_a_mi_página,">
@@ -9,5 +9,6 @@
       a mi pagina
       </p>
   </span>
-</h1>
+</h1-->
+<h1 style="color: #ff0000">Bienvenidos a mi pagina</h1>
 <p>códigos para todos</p>
