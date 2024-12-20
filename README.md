@@ -3,7 +3,7 @@
   </span>
   <span data-mw-comment-start="" id="h-Bienvenidos_a_mi_página,">
   </span>
-  <span data-mw-comment-end="h-Bienvenidos_a_mi_Portfolio," style="color: red">
+  <span data-mw-comment-end="h-Bienvenidos_a_mi_Portfolio," style="color: #FF0000">
       <a href="/wiki/Wikipedia:Bienvenidos" title="Wikipedia:Bienvenidos">Bienvenidos</a> 
       a mi pagina
   </span>
