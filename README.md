@@ -1,9 +1,9 @@
-<h1 id="Bienvenidos_a_mi_portfolio," class="main-top-header" style="display: inline; color: red" data-mw-thread-id="h-Bienvenidos_a_mi_Portfolio">
+<h1 id="Bienvenidos_a_mi_portfolio," class="main-top-header" style="display: inline" data-mw-thread-id="h-Bienvenidos_a_mi_Portfolio">
   <span id="Bienvenidos_a_mi_Portfolio.2C">
   </span>
   <span data-mw-comment-start="" id="h-Bienvenidos_a_mi_página,">
   </span>
-  <span data-mw-comment-end="h-Bienvenidos_a_mi_Portfolio,">
+  <span data-mw-comment-end="h-Bienvenidos_a_mi_Portfolio," style="color: red">
       <a href="/wiki/Wikipedia:Bienvenidos" title="Wikipedia:Bienvenidos">Bienvenidos</a> 
       a mi pagina
   </span>
