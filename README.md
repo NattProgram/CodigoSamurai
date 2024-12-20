@@ -8,8 +8,8 @@
       a mi pagina
   </span>
 </h1>
-
-<p>Códigos para todos</p>
+<h1>Códigos para todos</h1>
 <p>Aquí presente se encuentran todas las actividades práctivas del curso Samurai</p>
-<p>img Programadora.jgp</p>
+
+
 
